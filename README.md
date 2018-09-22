@@ -8,8 +8,9 @@ print(model.predict(["yolo/dog-cycle-car.png"]))
 ```
 
 ## Format
-If no human bboxes detected, return [].
+If no human bboxes detected, return []; else return shape `nx4`.
 
+---
 
 Forked from https://github.com/ayooshkathuria/pytorch-yolo-v3
 
