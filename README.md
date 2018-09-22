@@ -1,7 +1,7 @@
 # human_detector_yolo3.pytorch 
 ## Run
 ```bash
-git clone human_detector_yolo3.pytorch yolo
+git clone https://github.com/Fangyh09/human_detector_yolo3.pytorch.git yolo
 ```
 
 ```python
