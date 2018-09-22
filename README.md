@@ -1,5 +1,9 @@
 # human_detector_yolo3.pytorch 
 ## Run
+```bash
+git clone human_detector_yolo3.pytorch yolo
+```
+
 ```python
 from yolo.yolo_wrapper import YoloEstimator
 
