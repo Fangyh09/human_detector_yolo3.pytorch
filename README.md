@@ -1,4 +1,4 @@
-# human_detector_yolo3.pytorch
+# human_detector_yolo3.pytorch 
 
 [UPDATE] : This repo serves as a driver code for my research. I just graduated college, and am very busy looking for research internship / fellowship roles before eventually applying for a masters. I won't have the time to look into issues for the time being. Thank you.
 
@@ -89,4 +89,5 @@ YOLO v3 makes detections across different scales, each of which deputise in dete
 ```
 python detect.py --scales 1,3
 ```
+
 
