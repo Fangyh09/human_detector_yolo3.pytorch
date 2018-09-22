@@ -7,3 +7,5 @@ print(model.predict(["yolo/dog-cycle-car.png"]))
 ```
 
 
+Forked from https://github.com/ayooshkathuria/pytorch-yolo-v3
+
